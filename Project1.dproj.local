@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/21 11:48:53.000.591,=C:\Users\Dell\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 21:46:04.000.011,=C:\Users\Dell\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2024/01/25 12:28:51.000.963,=C:\Users\Dell\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2024/01/28 11:42:23.000.684,=C:\Users\Dell\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2024/02/15 21:43:41.612,=C:\Users\Dell\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2024/02/15 21:44:29.163,C:\Users\Dell\Documents\essai gitt\Unit1.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2024/02/15 21:44:29.163,C:\Users\Dell\Documents\essai gitt\Unit1.dfm=C:\Users\Dell\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2024/02/15 21:44:44.380,C:\Users\Dell\Documents\essai gitt\Project1.dproj=C:\Users\Dell\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
